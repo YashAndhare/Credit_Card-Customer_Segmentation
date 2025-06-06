@@ -18,8 +18,9 @@ AllLife Bank is looking to expand its credit card customer base. Their market re
 
 To identify **distinct customer segments** using clustering, based on:
 - Spending patterns
-- Service interaction behavior  
-The insights will help:
+- Service interaction behavior
+   
+The insights will help:-
 - Launch **personalized campaigns**
 - Improve **customer service models**
 - Drive **strategic decision-making**
@@ -32,13 +33,13 @@ The dataset contains various features representing customer financial and behavi
 
 ### 📊 Feature Columns
 
-- Sl_No: Primary key of the records
-- Customer Key: Customer identification number
-- Average Credit Limit: Average credit limit of each customer for all credit cards
-- Total credit cards: Total number of credit cards possessed by the customer
-- Total visits bank: Total number of Visits that customer made (yearly) personally to the bank
-- Total visits online: Total number of visits or online logins made by the customer (yearly)
-- Total calls made: Total number of calls made by the customer to the bank or its customer service department (yearly)
+- Sl_No:- Primary key of the records
+- Customer Key:- Customer identification number
+- Average Credit Limit:- Average credit limit of each customer for all credit cards
+- Total credit cards:- Total number of credit cards possessed by the customer
+- Total visits bank:- Total number of Visits that customer made (yearly) personally to the bank
+- Total visits online:- Total number of visits or online logins made by the customer (yearly)
+- Total calls made:- Total number of calls made by the customer to the bank or its customer service department (yearly)
 
 ## 🛠️ Operations Performed
 
